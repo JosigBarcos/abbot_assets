@@ -5,7 +5,7 @@
 }
 
 .swal2-container.swal2-center>.swal2-popup {
-  width: 70%;
+  width: 70% !important;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-align: center;
+  -webkit-box-align: center; !important
       -ms-flex-align: center;
           align-items: center;
   height: 100vh;
