@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.swal2-container.swal2-center>.swal2-popup {
+  width: 70%;
+}
+
 body {
   display: -webkit-box;
   display: -ms-flexbox;
